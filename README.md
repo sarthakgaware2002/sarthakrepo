@@ -118,18 +118,6 @@ print(f"Welcome! Let's build something that scales. ⚡")
 <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthakgaware2002&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=00d4ff&text_color=ffffff&langs_count=8" />
 </div>
 ---
-
-## 🚀 Featured Projects
-
-### 📺 YouTube Data Engineering Pipeline
-- 🔗 https://github.com/sarthakgaware2002/youtube-data-pipeline
-- Built scalable ETL pipeline using PySpark & AWS
-- Processed millions of records with Medallion Architecture
-- Delivered analytics-ready datasets for dashboards
-
-<a href="https://github.com/sarthakgaware2002/youtube-data-pipeline">
-  <img src="https://img.shields.io/badge/View%20Project-YouTube%20Pipeline-00d4ff?style=for-the-badge"/>
-</a> 
  
 ## 🏆 GitHub Trophies
  
