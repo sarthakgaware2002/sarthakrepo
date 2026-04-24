@@ -12,21 +12,6 @@
 </a>
 </div>
 ---
-
-<div align="center">
-<!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sarthak%20Gaware&fontSize=60&fontColor=00d4ff&fontAlignY=38&desc=Data%20Engineer%20%E2%80%94%20Turning%20Raw%20Data%20into%20Reliable%20Systems&descSize=16&descAlignY=58&descColor=a78bfa&animation=twinkling" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=⚡+300M%2B+Records+Processed+Daily;🏗️+Medallion+Architecture+%7C+AWS+Lakehouse;🌊+Real-Time+Streaming+with+Kafka+%26+Spark;🔧+PySpark+%7C+Airflow+%7C+Databricks+%7C+dbt;📊+Banking+Data+Pipelines+in+Production" />
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=sarthakgaware2002&style=for-the-badge&color=302b63&label=PROFILE+VIEWS" />
-&nbsp;
-<a href="https://github.com/sarthakgaware2002?tab=followers">
-  <img src="https://img.shields.io/github/followers/sarthakgaware2002?style=for-the-badge&color=00d4ff&labelColor=0f0c29&label=FOLLOWERS" />
-</a>
-</div>
  
 ## 🧑‍💻 About Me
  
